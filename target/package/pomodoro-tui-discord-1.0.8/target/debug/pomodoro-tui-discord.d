@@ -1,1 +1,0 @@
-/home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.8/target/debug/pomodoro-tui-discord: /home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.8/rain-sound.mp3 /home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.8/src/main.rs

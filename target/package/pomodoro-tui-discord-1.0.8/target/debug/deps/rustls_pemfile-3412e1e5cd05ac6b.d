@@ -1,8 +1,0 @@
-/home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.8/target/debug/deps/rustls_pemfile-3412e1e5cd05ac6b.d: /home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/lib.rs /home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/pemfile.rs
-
-/home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.8/target/debug/deps/librustls_pemfile-3412e1e5cd05ac6b.rlib: /home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/lib.rs /home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/pemfile.rs
-
-/home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.8/target/debug/deps/librustls_pemfile-3412e1e5cd05ac6b.rmeta: /home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/lib.rs /home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/pemfile.rs
-
-/home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/lib.rs:
-/home/hexbyte/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pemfile-1.0.4/src/pemfile.rs:
