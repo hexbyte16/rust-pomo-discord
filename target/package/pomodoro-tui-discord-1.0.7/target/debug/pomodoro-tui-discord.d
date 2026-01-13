@@ -1,1 +1,0 @@
-/home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.7/target/debug/pomodoro-tui-discord: /home/hexbyte/Documents/code/pomo-discord/target/package/pomodoro-tui-discord-1.0.7/src/main.rs
